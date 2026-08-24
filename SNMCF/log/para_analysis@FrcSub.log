@@ -1,0 +1,476 @@
+
+SNMCF hyperparameters: 
+rank: 1
+Alpha: 0.50
+Lambda U: 0.00
+Lambda V: 0.00
+Lambda E: 0.00
+Fitting data...
+TIME:0.21527
+ACCURACY (Obj): 0.78778, ACCURACY(Q): 0.76875 MAE: 0.30963, RMSE: 0.38713, KRC: 0.65849, SpearmanRHO: 0.66266, SimpsonIndex: 0.61037
+The Passing Ratio (PR) is 0.40860, confidience level is 0.05
+
+SNMCF hyperparameters: 
+rank: 2
+Alpha: 0.50
+Lambda U: 0.00
+Lambda V: 0.00
+Lambda E: 0.00
+Fitting data...
+TIME:0.07871
+ACCURACY (Obj): 0.82696, ACCURACY(Q): 0.83125 MAE: 0.25714, RMSE: 0.35929, KRC: 0.62474, SpearmanRHO: 0.64567, SimpsonIndex: 0.68424
+The Passing Ratio (PR) is 0.61671, confidience level is 0.05
+
+SNMCF hyperparameters: 
+rank: 3
+Alpha: 0.50
+Lambda U: 0.00
+Lambda V: 0.00
+Lambda E: 0.00
+Fitting data...
+Maximum iterations reached.
+TIME:0.07651
+ACCURACY (Obj): 0.84095, ACCURACY(Q): 0.88125 MAE: 0.24497, RMSE: 0.35048, KRC: 0.60015, SpearmanRHO: 0.63994, SimpsonIndex: 0.66470
+The Passing Ratio (PR) is 0.46770, confidience level is 0.05
+
+SNMCF hyperparameters: 
+rank: 4
+Alpha: 0.50
+Lambda U: 0.00
+Lambda V: 0.00
+Lambda E: 0.00
+Fitting data...
+Maximum iterations reached.
+TIME:0.07548
+ACCURACY (Obj): 0.83582, ACCURACY(Q): 0.90625 MAE: 0.24278, RMSE: 0.35123, KRC: 0.57261, SpearmanRHO: 0.63898, SimpsonIndex: 0.72271
+The Passing Ratio (PR) is 0.69767, confidience level is 0.05
+
+SNMCF hyperparameters: 
+rank: 5
+Alpha: 0.50
+Lambda U: 0.00
+Lambda V: 0.00
+Lambda E: 0.00
+Fitting data...
+Maximum iterations reached.
+TIME:0.07592
+ACCURACY (Obj): 0.84282, ACCURACY(Q): 0.92500 MAE: 0.23945, RMSE: 0.34804, KRC: 0.58471, SpearmanRHO: 0.63448, SimpsonIndex: 0.70901
+The Passing Ratio (PR) is 0.46328, confidience level is 0.05
+
+SNMCF hyperparameters: 
+rank: 6
+Alpha: 0.50
+Lambda U: 0.00
+Lambda V: 0.00
+Lambda E: 0.00
+Fitting data...
+Maximum iterations reached.
+TIME:0.13815
+ACCURACY (Obj): 0.82929, ACCURACY(Q): 0.91875 MAE: 0.24118, RMSE: 0.34997, KRC: 0.57387, SpearmanRHO: 0.63629, SimpsonIndex: 0.76236
+The Passing Ratio (PR) is 0.43038, confidience level is 0.05
+
+SNMCF hyperparameters: 
+rank: 7
+Alpha: 0.50
+Lambda U: 0.00
+Lambda V: 0.00
+Lambda E: 0.00
+Fitting data...
+Maximum iterations reached.
+TIME:0.09923
+ACCURACY (Obj): 0.83489, ACCURACY(Q): 0.90625 MAE: 0.23325, RMSE: 0.34392, KRC: 0.57439, SpearmanRHO: 0.63894, SimpsonIndex: 0.75268
+The Passing Ratio (PR) is 0.41369, confidience level is 0.05
+
+SNMCF hyperparameters: 
+rank: 2
+Alpha: 0.01
+Lambda U: 0.00
+Lambda V: 0.00
+Lambda E: 0.00
+Fitting data...
+TIME:0.03452
+ACCURACY (Obj): 0.82789, ACCURACY(Q): 0.82500 MAE: 0.25725, RMSE: 0.35932, KRC: 0.65934, SpearmanRHO: 0.65302, SimpsonIndex: 0.61153
+The Passing Ratio (PR) is 0.44208, confidience level is 0.05
+
+SNMCF hyperparameters: 
+rank: 2
+Alpha: 0.10
+Lambda U: 0.00
+Lambda V: 0.00
+Lambda E: 0.00
+Fitting data...
+TIME:0.03197
+ACCURACY (Obj): 0.82789, ACCURACY(Q): 0.82500 MAE: 0.25718, RMSE: 0.35931, KRC: 0.63340, SpearmanRHO: 0.64513, SimpsonIndex: 0.67257
+The Passing Ratio (PR) is 0.60111, confidience level is 0.05
+
+SNMCF hyperparameters: 
+rank: 2
+Alpha: 0.50
+Lambda U: 0.00
+Lambda V: 0.00
+Lambda E: 0.00
+Fitting data...
+TIME:0.03703
+ACCURACY (Obj): 0.82696, ACCURACY(Q): 0.82500 MAE: 0.25724, RMSE: 0.35927, KRC: 0.66163, SpearmanRHO: 0.65252, SimpsonIndex: 0.60319
+The Passing Ratio (PR) is 0.42691, confidience level is 0.05
+
+SNMCF hyperparameters: 
+rank: 2
+Alpha: 1.00
+Lambda U: 0.00
+Lambda V: 0.00
+Lambda E: 0.00
+Fitting data...
+TIME:0.04950
+ACCURACY (Obj): 0.82649, ACCURACY(Q): 0.83125 MAE: 0.25713, RMSE: 0.35923, KRC: 0.65642, SpearmanRHO: 0.65299, SimpsonIndex: 0.61445
+The Passing Ratio (PR) is 0.45735, confidience level is 0.05
+
+SNMCF hyperparameters: 
+rank: 2
+Alpha: 5.00
+Lambda U: 0.00
+Lambda V: 0.00
+Lambda E: 0.00
+Fitting data...
+Maximum iterations reached.
+TIME:0.07320
+ACCURACY (Obj): 0.82882, ACCURACY(Q): 0.83125 MAE: 0.25895, RMSE: 0.35959, KRC: 0.67953, SpearmanRHO: 0.64552, SimpsonIndex: 0.56244
+The Passing Ratio (PR) is 0.41416, confidience level is 0.05
+
+SNMCF hyperparameters: 
+rank: 2
+Alpha: 10.00
+Lambda U: 0.00
+Lambda V: 0.00
+Lambda E: 0.00
+Fitting data...
+TIME:0.03941
+ACCURACY (Obj): 0.82136, ACCURACY(Q): 0.85625 MAE: 0.26214, RMSE: 0.36128, KRC: 0.70069, SpearmanRHO: 0.64384, SimpsonIndex: 0.53265
+The Passing Ratio (PR) is 0.40530, confidience level is 0.05
+
+SNMCF hyperparameters: 
+rank: 2
+Alpha: 50.00
+Lambda U: 0.00
+Lambda V: 0.00
+Lambda E: 0.00
+Fitting data...
+TIME:0.02299
+ACCURACY (Obj): 0.80924, ACCURACY(Q): 0.87500 MAE: 0.27100, RMSE: 0.36902, KRC: 0.67411, SpearmanRHO: 0.62170, SimpsonIndex: 0.53638
+The Passing Ratio (PR) is 0.39034, confidience level is 0.05
+
+SNMCF hyperparameters: 
+rank: 2
+Alpha: 100.00
+Lambda U: 0.00
+Lambda V: 0.00
+Lambda E: 0.00
+Fitting data...
+TIME:0.07234
+ACCURACY (Obj): 0.79711, ACCURACY(Q): 0.87500 MAE: 0.27520, RMSE: 0.37547, KRC: 0.65809, SpearmanRHO: 0.62060, SimpsonIndex: 0.55136
+The Passing Ratio (PR) is 0.39437, confidience level is 0.05
+
+SNMCF hyperparameters: 
+rank: 2
+Alpha: 0.50
+Lambda U: 10.00
+Lambda V: 1.00
+Lambda E: 0.00
+Fitting data...
+TIME:0.05942
+ACCURACY (Obj): 0.82649, ACCURACY(Q): 0.82500 MAE: 0.25756, RMSE: 0.35924, KRC: 0.65634, SpearmanRHO: 0.65335, SimpsonIndex: 0.61474
+The Passing Ratio (PR) is 0.44917, confidience level is 0.05
+
+SNMCF hyperparameters: 
+rank: 2
+Alpha: 0.50
+Lambda U: 10.00
+Lambda V: 1.00
+Lambda E: 0.01
+Fitting data...
+TIME:0.05592
+ACCURACY (Obj): 0.82743, ACCURACY(Q): 0.83125 MAE: 0.25829, RMSE: 0.35919, KRC: 0.62398, SpearmanRHO: 0.64729, SimpsonIndex: 0.67899
+The Passing Ratio (PR) is 0.57062, confidience level is 0.05
+
+SNMCF hyperparameters: 
+rank: 2
+Alpha: 0.50
+Lambda U: 10.00
+Lambda V: 1.00
+Lambda E: 0.10
+Fitting data...
+TIME:0.05910
+ACCURACY (Obj): 0.82696, ACCURACY(Q): 0.82500 MAE: 0.26069, RMSE: 0.35917, KRC: 0.59415, SpearmanRHO: 0.64204, SimpsonIndex: 0.72831
+The Passing Ratio (PR) is 0.65101, confidience level is 0.05
+
+SNMCF hyperparameters: 
+rank: 2
+Alpha: 0.50
+Lambda U: 10.00
+Lambda V: 1.00
+Lambda E: 1.00
+Fitting data...
+TIME:0.04018
+ACCURACY (Obj): 0.81763, ACCURACY(Q): 0.83125 MAE: 0.27008, RMSE: 0.36061, KRC: 0.58213, SpearmanRHO: 0.64436, SimpsonIndex: 0.74971
+The Passing Ratio (PR) is 0.70968, confidience level is 0.05
+
+SNMCF hyperparameters: 
+rank: 2
+Alpha: 0.50
+Lambda U: 10.00
+Lambda V: 1.00
+Lambda E: 5.00
+Fitting data...
+TIME:0.03501
+ACCURACY (Obj): 0.81483, ACCURACY(Q): 0.79375 MAE: 0.29230, RMSE: 0.36905, KRC: 0.57805, SpearmanRHO: 0.64654, SimpsonIndex: 0.75507
+The Passing Ratio (PR) is 0.76552, confidience level is 0.05
+
+SNMCF hyperparameters: 
+rank: 2
+Alpha: 0.50
+Lambda U: 10.00
+Lambda V: 1.00
+Lambda E: 10.00
+Fitting data...
+TIME:0.03751
+ACCURACY (Obj): 0.80364, ACCURACY(Q): 0.80000 MAE: 0.31194, RMSE: 0.38027, KRC: 0.60595, SpearmanRHO: 0.64493, SimpsonIndex: 0.67811
+The Passing Ratio (PR) is 0.74510, confidience level is 0.05
+
+SNMCF hyperparameters: 
+rank: 1
+Alpha: 0.50
+Lambda U: 0.00
+Lambda V: 0.00
+Lambda E: 0.00
+Fitting data...
+TIME:0.01517
+ACCURACY (Obj): 0.80830, ACCURACY(Q): 0.77500 MAE: 0.30035, RMSE: 0.37684, KRC: 0.66581, SpearmanRHO: 0.68276, SimpsonIndex: 0.61194
+The Passing Ratio (PR) is 0.40938, confidience level is 0.05
+
+SNMCF hyperparameters: 
+rank: 2
+Alpha: 0.50
+Lambda U: 0.00
+Lambda V: 0.00
+Lambda E: 0.00
+Fitting data...
+TIME:0.08822
+ACCURACY (Obj): 0.83489, ACCURACY(Q): 0.83125 MAE: 0.25093, RMSE: 0.35140, KRC: 0.65480, SpearmanRHO: 0.67561, SimpsonIndex: 0.64476
+The Passing Ratio (PR) is 0.46494, confidience level is 0.05
+
+SNMCF hyperparameters: 
+rank: 3
+Alpha: 0.50
+Lambda U: 0.00
+Lambda V: 0.00
+Lambda E: 0.00
+Fitting data...
+Maximum iterations reached.
+TIME:0.07475
+ACCURACY (Obj): 0.84282, ACCURACY(Q): 0.88750 MAE: 0.23778, RMSE: 0.34180, KRC: 0.60393, SpearmanRHO: 0.66611, SimpsonIndex: 0.66511
+The Passing Ratio (PR) is 0.42424, confidience level is 0.05
+
+SNMCF hyperparameters: 
+rank: 4
+Alpha: 0.50
+Lambda U: 0.00
+Lambda V: 0.00
+Lambda E: 0.00
+Fitting data...
+Maximum iterations reached.
+TIME:0.07888
+ACCURACY (Obj): 0.84841, ACCURACY(Q): 0.88750 MAE: 0.23333, RMSE: 0.33715, KRC: 0.61621, SpearmanRHO: 0.66550, SimpsonIndex: 0.72108
+The Passing Ratio (PR) is 0.15278, confidience level is 0.05
+
+SNMCF hyperparameters: 
+rank: 5
+Alpha: 0.50
+Lambda U: 0.00
+Lambda V: 0.00
+Lambda E: 0.00
+Fitting data...
+Maximum iterations reached.
+TIME:0.08218
+ACCURACY (Obj): 0.84282, ACCURACY(Q): 0.90625 MAE: 0.22893, RMSE: 0.33755, KRC: 0.60574, SpearmanRHO: 0.66238, SimpsonIndex: 0.71904
+The Passing Ratio (PR) is 0.46000, confidience level is 0.05
+
+SNMCF hyperparameters: 
+rank: 6
+Alpha: 0.50
+Lambda U: 0.00
+Lambda V: 0.00
+Lambda E: 0.00
+Fitting data...
+Maximum iterations reached.
+TIME:0.13364
+ACCURACY (Obj): 0.84981, ACCURACY(Q): 0.92500 MAE: 0.22581, RMSE: 0.33575, KRC: 0.61126, SpearmanRHO: 0.66563, SimpsonIndex: 0.69368
+The Passing Ratio (PR) is 0.38482, confidience level is 0.05
+
+SNMCF hyperparameters: 
+rank: 7
+Alpha: 0.50
+Lambda U: 0.00
+Lambda V: 0.00
+Lambda E: 0.00
+Fitting data...
+Maximum iterations reached.
+TIME:0.10034
+ACCURACY (Obj): 0.84468, ACCURACY(Q): 0.93125 MAE: 0.22619, RMSE: 0.33454, KRC: 0.61367, SpearmanRHO: 0.66495, SimpsonIndex: 0.66558
+The Passing Ratio (PR) is 0.34109, confidience level is 0.05
+
+SNMCF hyperparameters: 
+rank: 2
+Alpha: 0.01
+Lambda U: 0.00
+Lambda V: 0.00
+Lambda E: 0.00
+Fitting data...
+TIME:0.02909
+ACCURACY (Obj): 0.83582, ACCURACY(Q): 0.83125 MAE: 0.25092, RMSE: 0.35146, KRC: 0.66230, SpearmanRHO: 0.67471, SimpsonIndex: 0.62861
+The Passing Ratio (PR) is 0.44279, confidience level is 0.05
+
+SNMCF hyperparameters: 
+rank: 2
+Alpha: 0.10
+Lambda U: 0.00
+Lambda V: 0.00
+Lambda E: 0.00
+Fitting data...
+TIME:0.04160
+ACCURACY (Obj): 0.83535, ACCURACY(Q): 0.83125 MAE: 0.25086, RMSE: 0.35145, KRC: 0.65902, SpearmanRHO: 0.67413, SimpsonIndex: 0.63340
+The Passing Ratio (PR) is 0.44332, confidience level is 0.05
+
+SNMCF hyperparameters: 
+rank: 2
+Alpha: 0.50
+Lambda U: 0.00
+Lambda V: 0.00
+Lambda E: 0.00
+Fitting data...
+TIME:0.03915
+ACCURACY (Obj): 0.83535, ACCURACY(Q): 0.83125 MAE: 0.25091, RMSE: 0.35139, KRC: 0.65134, SpearmanRHO: 0.67424, SimpsonIndex: 0.65106
+The Passing Ratio (PR) is 0.48021, confidience level is 0.05
+
+SNMCF hyperparameters: 
+rank: 2
+Alpha: 1.00
+Lambda U: 0.00
+Lambda V: 0.00
+Lambda E: 0.00
+Fitting data...
+TIME:0.03596
+ACCURACY (Obj): 0.83675, ACCURACY(Q): 0.83125 MAE: 0.25117, RMSE: 0.35160, KRC: 0.67072, SpearmanRHO: 0.67545, SimpsonIndex: 0.59964
+The Passing Ratio (PR) is 0.42334, confidience level is 0.05
+
+SNMCF hyperparameters: 
+rank: 2
+Alpha: 5.00
+Lambda U: 0.00
+Lambda V: 0.00
+Lambda E: 0.00
+Fitting data...
+Maximum iterations reached.
+TIME:0.06596
+ACCURACY (Obj): 0.83489, ACCURACY(Q): 0.83750 MAE: 0.25304, RMSE: 0.35217, KRC: 0.69719, SpearmanRHO: 0.67602, SimpsonIndex: 0.55667
+The Passing Ratio (PR) is 0.39407, confidience level is 0.05
+
+SNMCF hyperparameters: 
+rank: 2
+Alpha: 10.00
+Lambda U: 0.00
+Lambda V: 0.00
+Lambda E: 0.00
+Fitting data...
+Maximum iterations reached.
+TIME:0.06987
+ACCURACY (Obj): 0.83116, ACCURACY(Q): 0.85625 MAE: 0.25600, RMSE: 0.35373, KRC: 0.71386, SpearmanRHO: 0.67655, SimpsonIndex: 0.53696
+The Passing Ratio (PR) is 0.38571, confidience level is 0.05
+
+SNMCF hyperparameters: 
+rank: 2
+Alpha: 50.00
+Lambda U: 0.00
+Lambda V: 0.00
+Lambda E: 0.00
+Fitting data...
+TIME:0.03680
+ACCURACY (Obj): 0.81996, ACCURACY(Q): 0.87500 MAE: 0.26341, RMSE: 0.35966, KRC: 0.70035, SpearmanRHO: 0.66193, SimpsonIndex: 0.53551
+The Passing Ratio (PR) is 0.37980, confidience level is 0.05
+
+SNMCF hyperparameters: 
+rank: 2
+Alpha: 100.00
+Lambda U: 0.00
+Lambda V: 0.00
+Lambda E: 0.00
+Fitting data...
+TIME:0.06529
+ACCURACY (Obj): 0.81390, ACCURACY(Q): 0.87500 MAE: 0.26727, RMSE: 0.36509, KRC: 0.67743, SpearmanRHO: 0.65190, SimpsonIndex: 0.54588
+The Passing Ratio (PR) is 0.38508, confidience level is 0.05
+
+SNMCF hyperparameters: 
+rank: 2
+Alpha: 0.50
+Lambda U: 10.00
+Lambda V: 1.00
+Lambda E: 0.00
+Fitting data...
+TIME:0.06558
+ACCURACY (Obj): 0.83582, ACCURACY(Q): 0.83125 MAE: 0.25142, RMSE: 0.35151, KRC: 0.66182, SpearmanRHO: 0.67521, SimpsonIndex: 0.62197
+The Passing Ratio (PR) is 0.43447, confidience level is 0.05
+
+SNMCF hyperparameters: 
+rank: 2
+Alpha: 0.50
+Lambda U: 10.00
+Lambda V: 1.00
+Lambda E: 0.01
+Fitting data...
+Maximum iterations reached.
+TIME:0.06993
+ACCURACY (Obj): 0.83629, ACCURACY(Q): 0.83125 MAE: 0.25207, RMSE: 0.35135, KRC: 0.66133, SpearmanRHO: 0.67424, SimpsonIndex: 0.62407
+The Passing Ratio (PR) is 0.44988, confidience level is 0.05
+
+SNMCF hyperparameters: 
+rank: 2
+Alpha: 0.50
+Lambda U: 10.00
+Lambda V: 1.00
+Lambda E: 0.10
+Fitting data...
+TIME:0.05610
+ACCURACY (Obj): 0.83582, ACCURACY(Q): 0.82500 MAE: 0.25396, RMSE: 0.35097, KRC: 0.61654, SpearmanRHO: 0.66469, SimpsonIndex: 0.71490
+The Passing Ratio (PR) is 0.58416, confidience level is 0.05
+
+SNMCF hyperparameters: 
+rank: 2
+Alpha: 0.50
+Lambda U: 10.00
+Lambda V: 1.00
+Lambda E: 1.00
+Fitting data...
+TIME:0.04607
+ACCURACY (Obj): 0.83396, ACCURACY(Q): 0.82500 MAE: 0.26278, RMSE: 0.35227, KRC: 0.59489, SpearmanRHO: 0.66698, SimpsonIndex: 0.74936
+The Passing Ratio (PR) is 0.68978, confidience level is 0.05
+
+SNMCF hyperparameters: 
+rank: 2
+Alpha: 0.50
+Lambda U: 10.00
+Lambda V: 1.00
+Lambda E: 5.00
+Fitting data...
+TIME:0.04559
+ACCURACY (Obj): 0.82323, ACCURACY(Q): 0.80000 MAE: 0.28533, RMSE: 0.36087, KRC: 0.59635, SpearmanRHO: 0.66934, SimpsonIndex: 0.73939
+The Passing Ratio (PR) is 0.73244, confidience level is 0.05
+
+SNMCF hyperparameters: 
+rank: 2
+Alpha: 0.50
+Lambda U: 10.00
+Lambda V: 1.00
+Lambda E: 10.00
+Fitting data...
+TIME:0.04097
+ACCURACY (Obj): 0.81110, ACCURACY(Q): 0.80000 MAE: 0.30495, RMSE: 0.37235, KRC: 0.62179, SpearmanRHO: 0.66504, SimpsonIndex: 0.67625
+The Passing Ratio (PR) is 0.68182, confidience level is 0.05
