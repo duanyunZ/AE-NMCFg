@@ -101,3 +101,9 @@ pip install torch torch-geometric numpy scipy pandas
 ```
 
 ---
+
+## Citation
+If you find this work useful, please cite our paper.
+
+
+---
