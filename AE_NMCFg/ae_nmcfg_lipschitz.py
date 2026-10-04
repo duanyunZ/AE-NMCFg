@@ -439,13 +439,11 @@ def fit_data(train_data, train_fill, q_m, weight, rank, adj_matrix,
         for n in range(ex_num):
             grad_M[n, 0] = cal_grad_M_n_torch(n, U, V, M, q_m, train_data, device)
 
-        # Projected gradient updates (Algorithm 1, Lines 7-21)
         U = update_U_proj(U, grad_U, l_u, step_factor)
         V = update_V_proj(V, grad_V, l_v, step_factor)
         E = update_E_proj(E, grad_E, l_e, step_factor)
         M = update_M_proj(M, grad_M, l_m, step_factor)
 
-        # GAT update via Adam (Algorithm 1, Lines 22-23)
         gat_model.train()
         h_gat, attn = gat_model(h0, edge_index)
         edge_index_attn, alpha = attn
@@ -456,7 +454,6 @@ def fit_data(train_data, train_fill, q_m, weight, rank, adj_matrix,
         torch.nn.utils.clip_grad_norm_(gat_model.parameters(), 1.0)
         gat_optimizer.step()
 
-        # Evaluate objective (Algorithm 1, Lines 24-28)
         gat_model.eval()
         with torch.no_grad():
             _, attn = gat_model(h0, edge_index)
@@ -489,7 +486,6 @@ def fit_data(train_data, train_fill, q_m, weight, rank, adj_matrix,
         if delta < best_delta:
             best_delta, best_delta_params, best_delta_iter = delta, best_params, i
 
-        # Convergence checking and early stopping (Algorithm 1, Lines 30-32)
         stop_flag, stop_reason = False, None
         if delta < 0:
             stop_flag, stop_reason = True, f"obj increased (delta={delta:.6f})"
