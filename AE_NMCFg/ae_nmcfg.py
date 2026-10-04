@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-AE-NMCFg: A Dual-Constrained Nonnegative Matrix Co-Factorization for Student Cognitive Diagnosis.
+Toward Monotonicity and Hierarchical Rationality in Student Cognitive Modeling via Autoencoder-like Matrix Co-Factorization.
 
 This model jointly factorizes the student response matrix X (N x M) and the Q-matrix (N x K)
 into nonnegative latent factors E (N x T), U (T x M), and V (T x K). The knowledge proficiency
