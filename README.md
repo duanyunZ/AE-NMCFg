@@ -1,6 +1,6 @@
 # AE-NMCFg
 
-**AE-NMCFg: A Dual-Constrained Nonnegative Matrix Co-Factorization for Student Cognitive Diagnosis**
+**Toward Monotonicity and Hierarchical Rationality in Student Cognitive Modeling via Autoencoder-like Matrix Co-Factorization**
 
 This code implements the AE-NMCFg model for student cognitive diagnosis, which jointly performs performance prediction and cognitive diagnosis under two pedagogical constraints: (1) psychometric monotonicity, and (2) the Hierarchical Cognitive Assumption (HCA).
 
